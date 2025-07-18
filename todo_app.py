@@ -1,6 +1,8 @@
 # Version 1.1 - Added comment
 
 tasks = []
+# Displaying the menu options
+
 
 def show_menu():
     print("\n--- To-Do List ---")
