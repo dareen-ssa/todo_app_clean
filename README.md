@@ -13,4 +13,5 @@ A simple Python-based To-Do List app that allows you to:
 ## Challenges
 - Understanding GitHub commits and push.
 - Testing task deletion logic.
-*This project is part of a pre-course assessment task.*
+*Second update: added extra notes.*
+
