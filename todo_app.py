@@ -1,3 +1,5 @@
+# Version 1.1 - Added comment
+
 tasks = []
 
 def show_menu():
